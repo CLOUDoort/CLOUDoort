@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=CLOUDoort👋&fontSize=50&animation=twinkling
 
-<p align="center">
-  <img src="https://img.shields.io/badge/#3178C6-blue?style=flat&logo=Typescript&logoColor=${blue}"/></a>&nbsp
-</p>
-
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
