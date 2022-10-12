@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=CLOUDoort!👋&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=CLOUDoort👋&fontSize=50&animation=twinkling)
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/CLOUDoort">
