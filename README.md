@@ -3,13 +3,13 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/${CLOURoort}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${CLOUDoort}&layout=compact&show_icons=${true}&show_owner=${ CLOUDoort}&hide_title=${true}&theme=${nord}&hide=${}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${CLOUDoort}&layout=compact&show_icons=${true}&show_owner=${ CLOUDoort}&hide_title=${true}&theme=${nord}" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
   <a href="https://github.com/${CLOUDoort}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${CLOUDoort}&hide=${}&hide_title=${true}&show_icons=${true}&include_all_commits=${}&theme=${nord}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${CLOUDoort}&hide_title=${true}&show_icons=${true}&include_all_commits=${false}&theme=${nord}" />
   </a>
 </p>
 
