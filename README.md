@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=Hi👋&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=auto&height=200&section=header&text=👋CLOUDOORT&fontSize=50&animation=twinkling)
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
@@ -16,7 +16,7 @@
 <hr />
 
 - 🌱 [velog](https://velog.io/@cloud_oort)
-- 👯 I’m looking to collaborate on ...  [백엔드 코드 개발자 Github 주소](https://github.com/HoonDongKang/movieinner-project-backend)
+- 👯 I’m looking to collaborate on ...  [백엔드 개발자](https://github.com/HoonDongKang/movieinner-project-backend)
 
 <!--
 **CLOUDoort/CLOUDoort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
