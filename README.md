@@ -16,7 +16,7 @@
 <hr />
 
 - 🌱 [velog](https://velog.io/@cloud_oort)
-- 👯 I’m looking to collaborate on ...  [백엔드 개발자](https://github.com/HoonDongKang/movieinner-project-backend)
+- 👯 I’m looking to collaborate on ...  [백엔드 개발자](https://github.com/HoonDongKang)
 
 <!--
 **CLOUDoort/CLOUDoort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
